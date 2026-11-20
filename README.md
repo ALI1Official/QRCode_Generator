@@ -13,7 +13,7 @@ directly inside the code.
 
 ## How to use it
 
-1. Open `index.html` in any browser.
+1. Open `qr-generator.html` in any browser.
 2. Pick the **Text / URL** tab or the **File** tab.
 3. Type your text/link, or choose a file.
 4. Hit **Generate QR Code**.
