@@ -28,7 +28,7 @@ No installs, no setup:
 ```bash
 git clone https://github.com/ALI1Official/QRCode_Generator
 cd QRCode_Generator-main
-open index.html
+open qr-generator.html
 ```
 
 Everything needed to generate the QR code is already inside the file, so it works
