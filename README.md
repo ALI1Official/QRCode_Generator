@@ -26,7 +26,7 @@ That's it.
 No installs, no setup:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/ALI1Official/QRCode_Generator.git
 cd QRCode_Generator-main
 open index.html
 ```
