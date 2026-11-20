@@ -27,7 +27,7 @@ No installs, no setup:
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+cd <QRCode_Generator-main>
 open index.html
 ```
 
